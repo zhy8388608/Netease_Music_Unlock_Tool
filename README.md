@@ -1,2 +1,3 @@
-# Netease_Music_Unlock_Tool
-A tool for decrypting music downloaded from Netease Music
+A tool for decrypting music downloaded from Netease Music.
+
+Usage: netease_music_unlock.exe [FILE1] [FILE2]...
